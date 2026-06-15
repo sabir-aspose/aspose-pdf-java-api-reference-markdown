@@ -1,0 +1,24 @@
+{
+  "authority": "https://reference.aspose.com/pdf/java/",
+  "generated_at": "2026-06-15T18:29:41+00:00",
+  "generator": "examples-rag-platform",
+  "platforms": {
+    "java": {
+      "content": "content/en/java",
+      "language": "en",
+      "manifest": "manifests/java.json",
+      "markdown_files": 869,
+      "namespaces": 21,
+      "pages": 869,
+      "partial_generated_files": 0,
+      "status": "completed",
+      "types_completed": 847,
+      "types_discovered": 851,
+      "types_failed": 0,
+      "types_selected": 851,
+      "types_skipped": 4
+    }
+  },
+  "product": "pdf",
+  "schema_version": 1
+}

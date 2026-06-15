@@ -1,0 +1,59 @@
+---
+title: "ProgressEventType"
+second_title: "Aspose.PDF for Java API Reference"
+description: "This enum describes possible progress event types that can occure during conversion"
+type: docs
+url: "/java/com.aspose.pdf/progresseventtype/"
+source_url: "https://reference.aspose.com/pdf/java/com.aspose.pdf/progresseventtype/"
+generated_from: "online-reference"
+fetched_at: "2026-06-15T18:00:08+00:00"
+---
+**Inheritance:**
+java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
+
+```
+public final class ProgressEventType extends System.Enum
+```
+
+This enum describes possible progress event types that can occure during conversion
+
+## Fields {#fields}
+
+| Field | Description |
+| --- | --- |
+| [TotalProgress](#TotalProgress) | means that occured event informs about total progress of conversion |
+| [SourcePageAnalysed](#SourcePageAnalysed) | means that occured event informs about end of analysis of one of pages before conversion |
+| [ResultPageCreated](#ResultPageCreated) | means that occured event informs about creation of one result page before phisical export |
+| [ResultPageSaved](#ResultPageSaved) | means that occured event informs about finished saving of one result page |
+
+### TotalProgress {#TotalProgress}
+
+```
+public static final int TotalProgress
+```
+
+means that occured event informs about total progress of conversion
+
+### SourcePageAnalysed {#SourcePageAnalysed}
+
+```
+public static final int SourcePageAnalysed
+```
+
+means that occured event informs about end of analysis of one of pages before conversion
+
+### ResultPageCreated {#ResultPageCreated}
+
+```
+public static final int ResultPageCreated
+```
+
+means that occured event informs about creation of one result page before phisical export
+
+### ResultPageSaved {#ResultPageSaved}
+
+```
+public static final int ResultPageSaved
+```
+
+means that occured event informs about finished saving of one result page
